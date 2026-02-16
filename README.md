@@ -8,3 +8,5 @@ Tengo 1 bar chart donde se muestra las estadisticas como ataque, defensa, veloci
 
 Mi api es estatica al ser creada por mi en mockAPI.
 Cree una variable llamada pokemonID en la cual cojo el id de cada pokemon para seleccionarlo y asi poder mostrar ciertas visualizaciones.
+
+url del JSON: https://698cca5121a248a273629cb4.mockapi.io/pokemons
